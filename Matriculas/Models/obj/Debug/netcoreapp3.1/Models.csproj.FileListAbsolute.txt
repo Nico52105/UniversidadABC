@@ -1,0 +1,11 @@
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Desarrollo\Fuentes\_Personal\Matriculas\Models\obj\Debug\netcoreapp3.1\Models.genruntimeconfig.cache
